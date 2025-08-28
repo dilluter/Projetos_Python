@@ -12,4 +12,4 @@ Este repositório contém diversos projetos desenvolvidos em Python com foco em 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/dilluter/python.git
+   git clone https://github.com/dilluter/Projetos_Python.git
